@@ -6,12 +6,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
