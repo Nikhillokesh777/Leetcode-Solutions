@@ -15,6 +15,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -49,9 +50,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
