@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
