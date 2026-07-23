@@ -12,6 +12,7 @@
 | [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sliding Window
 |  |
 | ------- |
