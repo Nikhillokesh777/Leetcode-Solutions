@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Queue
