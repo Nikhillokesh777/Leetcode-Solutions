@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
