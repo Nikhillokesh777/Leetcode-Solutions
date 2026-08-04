@@ -30,6 +30,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
+| [3731-find-missing-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
