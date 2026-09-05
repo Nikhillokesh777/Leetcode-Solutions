@@ -139,6 +139,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
