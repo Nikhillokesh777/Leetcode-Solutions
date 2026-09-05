@@ -101,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -119,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
