@@ -140,6 +140,7 @@
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -200,4 +202,9 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
