@@ -43,6 +43,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -188,6 +189,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
