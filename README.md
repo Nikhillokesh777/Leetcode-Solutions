@@ -103,6 +103,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
