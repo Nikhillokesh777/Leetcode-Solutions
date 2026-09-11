@@ -16,6 +16,7 @@
 | [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0016-3sum-closest) |
+| [0414-third-maximum-number](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
