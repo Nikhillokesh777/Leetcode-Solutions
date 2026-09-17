@@ -30,6 +30,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1386-cinema-seat-allocation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -75,6 +76,7 @@
 | [0875-koko-eating-bananas](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
@@ -85,6 +87,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -137,6 +140,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -169,6 +173,7 @@
 | [0198-house-robber](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Queue
 |  |
 | ------- |
