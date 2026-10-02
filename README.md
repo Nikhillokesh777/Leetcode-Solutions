@@ -171,6 +171,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -234,4 +236,12 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
