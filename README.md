@@ -114,6 +114,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -231,6 +233,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 ## Design
 |  |
@@ -262,4 +265,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
