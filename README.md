@@ -116,6 +116,7 @@
 | [0050-powx-n](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -215,6 +216,7 @@
 | [0022-generate-parentheses](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
