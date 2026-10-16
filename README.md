@@ -34,6 +34,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -53,6 +54,7 @@
 | [0344-reverse-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
@@ -121,6 +124,7 @@
 | [0412-fizz-buzz](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
@@ -189,6 +193,7 @@
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Queue
 |  |
 | ------- |
