@@ -176,15 +176,18 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0226-invert-binary-tree](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0226-invert-binary-tree](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,4 +287,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
