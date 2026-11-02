@@ -19,6 +19,7 @@
 | [0410-split-array-largest-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -128,6 +129,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
