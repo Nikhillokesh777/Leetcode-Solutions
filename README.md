@@ -39,6 +39,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Linked List
 |  |
 | ------- |
