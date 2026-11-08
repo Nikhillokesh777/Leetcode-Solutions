@@ -33,6 +33,7 @@
 | [0881-boats-to-save-people](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Linked List
 |  |
@@ -200,6 +202,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -309,4 +313,9 @@
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
