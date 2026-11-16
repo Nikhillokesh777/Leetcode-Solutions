@@ -268,6 +268,7 @@
 | [0412-fizz-buzz](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -320,6 +321,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
