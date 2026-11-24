@@ -51,6 +51,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -120,6 +121,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -343,4 +347,8 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nikhillokesh777/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
